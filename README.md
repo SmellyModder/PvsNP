@@ -1,1 +1,1 @@
-# Proving MCSP-Compressible is in NP, but not in P/Poly -> P != NP through self-referential incompressibility of most truth tables
+# On the Incompressibility of Truth With Application to Circuit Complexity
